@@ -1,4 +1,6 @@
+![Status](https://img.shields.io/badge/status-completed-green)
 # 服务器监控系统 (Server Monitor)
+
 
 ## 项目概述
 在某公司实习期间，我开发了一套服务器监控系统，用于实时监控服务器的CPU、内存和磁盘使用情况，目标是及时发现潜在问题并发送告警。
